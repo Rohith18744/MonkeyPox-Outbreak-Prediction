@@ -1,1 +1,2 @@
-# MonkeyPox-Outbreak-Prediction
+# Minor-project
+monkeypox disease prediction
